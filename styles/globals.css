@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+ul {
+  list-style: none;
+}
+
+.post {
+  list-style: none;
+  box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.1);
+  padding: 13px;
+  margin-bottom: 13px;
+}
